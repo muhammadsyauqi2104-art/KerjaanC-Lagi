@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CustomTool\ButtonCorner.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomTool\PanelCorner.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="LaporanPenjualan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManajemenUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuGudang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuKasir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
